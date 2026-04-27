@@ -4,7 +4,7 @@ IT Support · Linux · Networking · Bash scripting
 
 Currently studying: Administración de Redes Linux + Ciberseguridad — UTN Fac. Regional Delta (2025, en curso)
 
-Now Based in Montevideo, Uruguay. from Argentina Buenos Aires · Open to remote and local opportunities
+Now Based in Montevideo, Uruguay (from Buenos Aires, Argentina ) · Open to remote and local opportunities
 
 ---
 
@@ -30,7 +30,7 @@ Remote      SSH key auth · Samba · Apache
 
 ## Background
 
-Im 22 yo , +4 years working in high-demand operational environments with digital systems, KPIs, and real-time tracking.
+4 years working in high-demand operational environments with digital systems, KPIs, and real-time tracking.
 Transitioning into IT with hands-on Linux lab work and formal networking/security training. 
 
 Spanish (native) · English (intermediate) · Portuguese (intermediate)
