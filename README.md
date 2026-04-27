@@ -24,6 +24,7 @@ Remote      SSH key auth · Samba · Apache
 | Repo | What it covers |
 |------|---------------|
 | [linux-lab](https://github.com/sebasstulle/linux-lab) | Home lab: SSH, DNS, DHCP, systemd practice |
+| [IT-Runbooks](https://github.com/sebasstulle/IT-runbooks) | Incident response & troubleshooting docs |
 
 
 ---
